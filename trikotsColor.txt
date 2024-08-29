@@ -1,0 +1,116 @@
+Trikots Colors 2. Bundesliga 2024/2025
+
+
+
+FC Köln:
+Heimtrikot: Weiß		Auswärtstrikot: Rot
+
+
+
+SV Darmstadt 98:
+Heimtrikot: Blau		Auswärtstrikot: Weiß
+
+
+Fortuna Düsseldorf:
+Heimtrikot: Rot		Auswärtstrikot: Weiß		rgb(227,6,19)
+
+
+Hamburger SV:
+Heimtrikot: Blau		Auswärtstrikot: Blau
+
+
+Karlsruher SC:
+Heimtrikot: Blau		Auswärtstrikot: Schwarz		rgb(204,204,204)		from xmlDocument: #FFFFFF
+
+
+
+Hannover 96:			#CD1013
+Heimtrikot: Rot		Auswärtstrikot: Schwarz-Grün 
+
+SpVgg Greuther Fürth:	#009932
+Heimtrikot: Weiß		Auswärtstrikot: Grün
+
+Hertha BSC:	
+Heimtrikot: Blau-Weiß		Auswärtstrikot: Schwarz	#000000 from webpage  and #231F20  from Daten 
+
+
+
+FC Schalke 04:			rgb(255,255,255)
+Heimtrikot: Blau		Auswärtstrikot: Weiß
+
+SV Elversberg:		#FFFFFF 
+Heimtrikot: Weiß		Auswärtstrikot: Schwarz
+
+
+1. FC Nürnberg: from webpage: #AA0C20 
+Oder #B21223 -#FFFFFF
+Heimtrikot: Rot		Auswärtstrikot: Weiß
+
+1. FC Kaiserslautern: webpage:#FF0000 - xmldocument: #D01C1D oder #65070F 
+Heimtrikot: Rot		Auswärtstrikot: Weiß
+
+1. FC Magdeburg:
+Webpage: #FFFFFF 
+Heimtrikot: Blau		Auswärtstrikot: Weiß
+
+Eintracht Braunschweig:
+Webpage: #FFCC00 - xml: #C8B002 
+Heimtrikot: Gelb		Auswärtstrikot: Blau
+
+SC Preußen Münster:
+rgb(0,148,94) grün oder schwarz #000000 
+Heimtrikot: Schwarz-Grün		Auswärtstrikot: Schwarz
+
+SSV Jahn Regensburg: 
+Ausweichtrikot: #81CBBA
+
+web: #DDDDDD 
+Heimtrikot: Weiß		Auswärtstrikot: Rot
+
+SC Paderborn: #FAFAFA oder Ausweichtrikot: #F63A2D
+Heimtrikot: Blau		Auswärtstrikot: Weiß
+
+SSV Ulm 1846:
+Heimtrikot: Weiß #F5F5F5		Auswärtstrikot: Schwarz #000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
